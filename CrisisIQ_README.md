@@ -5,7 +5,7 @@
 [![Live App](https://img.shields.io/badge/Live%20App-Try%20CrisisIQ-blue?style=flat-square)](https://partyrock.aws/u/nehaa/OU-QjlvSA/CrisisIQ%3A-Turning-Emergencies-into-Actionable-Insights)
 
 > **AWS "Hack the Future with AWS" Hackathon** — AWS Skills to Jobs Tech Alliance India  
-> **Achievement:** Ranked Top 20 of 50+ participating teams | October 2025  
+> **Achievement:** Ranked Top 20 of participating teams | October 2025  
 > **Team:** Team Genesis (4 members)
 
 ---
@@ -159,7 +159,7 @@ Emergency responders, government officials, and organisations often lack access 
 | Event | AWS "Hack the Future with AWS" Hackathon |
 | Organiser | AWS Skills to Jobs Tech Alliance India & AWS Education Programs |
 | Date | October 9, 2025 |
-| Result | **Top 20 of 50+ teams** |
+| Result | **Top 20 of participating teams** |
 | Team | Team Genesis (4 members) |
 | Institution | Konkan Gyanpeeth College of Engineering, Karjat |
 
@@ -167,7 +167,7 @@ Emergency responders, government officials, and organisations often lack access 
 
 ## Team Genesis
 
-Built by a team of 4 CSE students from Konkan Gyanpeeth College of Engineering during the AWS hackathon.
+Built by a team of 4 students from Konkan Gyanpeeth College of Engineering during the AWS hackathon.
 
 ---
 
